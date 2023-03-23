@@ -480,12 +480,3 @@ The availability of CAD in the 21st century was undoubtedly aided by the trend o
 	            <div class="nav-next fr"><a href="https://www.scan2cad.com/blog/tips/5-tools-every-cad-designer-needs/" rel="next">5 Tools Every CAD Designer Needs <i class="fa fa-angle-right"></i></a></div>
 	            <div class="fix"></div>
 	        </div>
-
-		     
-            </section><!-- /#main -->
-                
-            
-		</div><!-- /#main-sidebar-container -->         
-
-		
-    </div>
