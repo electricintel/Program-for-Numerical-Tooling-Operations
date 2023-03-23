@@ -1,24 +1,8 @@
 # Program-for-Numerical-Tooling-Operations
 
-<div id="content" class="col-full">
-    
-    	<div id="main-sidebar-container">    
+GE, where is this software?  A book maybe? If anyone has this, please upload it and let me know.
 
-            <!-- #main Starts -->
-                        <section id="main">                       
-<article class="post-19151 post type-post status-publish format-standard has-post-thumbnail hentry category-cad tag-autocad">
-	<header>
-	<h1 class="title entry-title">How CAD Has Evolved Since 1982</h1>    
-    
-    <div class="updated-on-title">
-        <span style="padding-right: 13px;">Updated</span>
-        <abbr class="date time updated-on-date">
-            Jun 28, 2019</abbr>
-    </div>
-    
-
-    	
-    </header>
+	
 <div class="post-meta"><div class="profile-image"><img alt="" src="https://secure.gravatar.com/avatar/e2a12b7374359a1bb95de33befd013f1?s=80&amp;d=identicon&amp;r=g" srcset="https://secure.gravatar.com/avatar/e2a12b7374359a1bb95de33befd013f1?s=160&amp;d=identicon&amp;r=g 2x" class="avatar avatar-80 photo" height="80" width="80" loading="lazy" decoding="async"></div><span class="author-by">By</span> <span class="author vcard"><span class="fn"><a href="https://www.scan2cad.com/blog/author/bethany/" title="Posts by Bethany" rel="author">Bethany</a></span></span> <div class="date-in"> <span class="published-title">Published</span><abbr class="date time published updated">Feb 23, 2017</abbr><span class="small">in</span> <span class="categories"><a href="https://www.scan2cad.com/blog/category/cad/" title="View all items in CAD">CAD</a></span>  </div></div>
 <div id="post-featured-image"><img width="800" height="534" src="https://www.scan2cad.com/blog/wp-content/uploads/2017/02/history-of-cad.jpg" class="attachment-full size-full wp-post-image" alt="The History of CAD" decoding="async" srcset="https://www.scan2cad.com/blog/wp-content/uploads/2017/02/history-of-cad.jpg 800w, https://www.scan2cad.com/blog/wp-content/uploads/2017/02/history-of-cad-650x434.jpg 650w, https://www.scan2cad.com/blog/wp-content/uploads/2017/02/history-of-cad-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"></div>	<section class="entry">
 <p>While it might be tempting to think of <strong>Computer Aided Design</strong> as a relatively recent innovation, most CAD programs we use today can actually be traced back to work begun <strong>over 50 years</strong> <strong>ago</strong>. As such, CAD has had a long and rich history that spans back decades. If, however, you’re not familiar with the history of CAD, you’re in luck.</p>
